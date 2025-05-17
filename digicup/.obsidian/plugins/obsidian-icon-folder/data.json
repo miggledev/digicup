@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCupSoda",
+      "LiLayoutTemplate",
+      "LiBookTemplate",
+      "LiPenTool",
+      "LiGitCompareArrows"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "📓Welcome to DigiCup!📔.md": {
+    "iconName": "LiALargeSmall",
+    "iconColor": "#3acf53"
+  },
+  "Projects": "LiGitCompareArrows",
+  "Productivity": "LiPenTool",
+  "Journal": "LiBookTemplate",
+  "DigiCup/Templates": "LiLayoutTemplate",
+  "DigiCup": "LiCupSoda"
+}

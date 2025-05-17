@@ -1,0 +1,11 @@
+{
+  "enabledCssSnippets": [
+    "miggle-digicup",
+    "custom-rainbow-colors",
+    "floating-searchbar",
+    "floating-statusbar"
+  ],
+  "showRibbon": false,
+  "cssTheme": "Typewriter",
+  "theme": "moonstone"
+}
