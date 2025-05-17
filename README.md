@@ -8,6 +8,7 @@
 - Designed for efficient note organization
 - Seamless integration with Obsidian plugins
 - AI Chat on the Sidebar
+- Sync with your Kindle library
 
 ## Screenshot
 
